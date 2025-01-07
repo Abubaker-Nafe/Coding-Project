@@ -23,12 +23,12 @@ The program provides the following details:
 ### Example Output
 Sample summary of results:
 
-Total Characters: 37,623 
-Entropy: 4.16 bits/character 
-ASCII Encoding Size: 301,048 bits 
-Huffman Encoding Size: 158,348 bits 
-Compression Percentage: 47.4% 
-Average Bits per Character (Huffman): 4.21 bits
+- Total Characters: 37,623
+- Entropy: 4.16 bits/character 
+- ASCII Encoding Size: 301,048 bits 
+- Huffman Encoding Size: 158,348 bits 
+- Compression Percentage: 47.4% 
+- Average Bits per Character (Huffman): 4.21 bits
 
 
 ## Technologies Used
